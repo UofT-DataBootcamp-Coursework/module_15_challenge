@@ -110,7 +110,7 @@ Ha: The slope of the linear model is not zero
 
 **What data should be collected?**
 
-Data that should be collected would include: car type, car purchase price (first variable for analysis), size of fuel tank, and fuel efficiency for a sufficient number of cars. In order to carry out the linear regression, we would first need to determine how many maximum kilometres could be achieved on a full tank of gas (size of fuel tank * fuel efficiency), which would in turn become our second variable for analysis.
+Data that should be collected would include: car type, car purchase price (independent variable for analysis), size of fuel tank, and fuel efficiency for a sufficient number of cars. In order to carry out the linear regression, we would first need to determine how many maximum kilometres could be achieved on a full tank of gas (size of fuel tank * fuel efficiency), which would in turn become our dependent variable for analysis.
 
 ## Report completed by:
 
