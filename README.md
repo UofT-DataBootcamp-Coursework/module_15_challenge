@@ -45,9 +45,7 @@ The multiple R-squared is 0.715, meaning that approximately 72% of the variance 
 
 **Standard deviation** = 8.7312
 
-**Interpretation and findings**
-
-*The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per inch. Does the current manufacturing data meet this design specification? Why or why not?*
+**The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per inch. Does the current manufacturing data meet this design specification? Why or why not?**
 
 With the current dataset (Suspension_Coil.csv), the variance of the suspension coils is less than 100 pounds per inch (76.2346). As such, the current manufacturing data meets this design specification.
 
@@ -57,7 +55,7 @@ With the current dataset (Suspension_Coil.csv), the variance of the suspension c
 
 It is determined that a One-Sample T-Test is the appropriate test to perform as we are trying to assert if there is a statistical difference between the means of the suspension coil dataset (sample) and a hypothesized potential population dataset (with a given mean of 1500).
 
-**Hypthosesis:**
+**Hypotheses:**
 
 Ho: There is NO STATISTICAL DIFFERENCE between the suspension coil sample mean and its presumed population mean.
 
@@ -82,7 +80,7 @@ Distribution of Sample Population (n=150)
 
 **4. The sample size is reasonably large.** 
 
-*Assumption is met as the sample datasetsize is reasonably large (n=150)
+*Assumption is met as the sample datasetsize is reasonably large (n=150)*
 
 **5. The variance of the input data should be very similar.**
 
