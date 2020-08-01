@@ -1,9 +1,10 @@
-# Install required packages
+# Install required packages and libraries
 install.packages("tidyverse")
 install.packages("pastecs")
 library(pastecs)
 library(ggplot2)
 library(dplyr)
+
 # Create tables from datasets
 mechaCar_table <- read.csv(file='MechaCar_mpg.csv',check.names=F)
 suspension_coil_table <- read.csv(file='Suspension_Coil.csv',check.names=F)
